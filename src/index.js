@@ -47,13 +47,13 @@ function Body() {
           </div>
           <div className="frame__demos">
             <NavLink to="/panna" activeClassName="frame__demo--current" className="frame__demo">
-              PANNA
+              Scene 1
             </NavLink>
             <NavLink to="/olga" activeClassName="frame__demo--current" className="frame__demo">
-              OLGA
+              Scene 2
             </NavLink>
             <NavLink to="/pedro" activeClassName="frame__demo--current" className="frame__demo">
-              PEDRO
+              Scene 3
             </NavLink>
           </div>
         </div>
